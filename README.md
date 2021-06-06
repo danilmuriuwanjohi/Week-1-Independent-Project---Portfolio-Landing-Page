@@ -1,5 +1,5 @@
 # PROJECTS
-#### The variety of programs listed on the webpage were designed by Daniel Muriu Wanjohi. The links are as listed on the webpage.the project include: Dairy-farm, anitas kitchen, favorite band  {19/05/2021}
+#### The variety of programs listed on the webpage were designed by Daniel Muriu Wanjohi. The links are as listed on the webpage.the project include: Dairy-farm, anitas kitchen, favorite band, and dogshelter.  {19/05/2021}
 
 ### PRODUCED BY (DANIEL MURIU WANJOHI)
 
