@@ -4,7 +4,7 @@
 ### PRODUCED BY (DANIEL MURIU WANJOHI)
 
 ## Description
- My programs are coded using html, css and javascript programs.
+ My programs are coded using html, css and javascript programs. link:https://danilmuriuwanjohi.github.io/Week-1-Independent-Project---Portfolio-Landing-Page/
 ## Setup/Installation Requirements
 * first youll need a visual basic software
 * you'll also need to update your os
